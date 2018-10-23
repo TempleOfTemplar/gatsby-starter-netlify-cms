@@ -39,6 +39,8 @@ intro:
         sale. The full price you pay goes to the artist.
     - image: /img/s967528964428673050_p172_i2_w2560.jpeg
       text: Whait what?
+    - image: /img/s967528964428673050_p170_i3_w2560.jpeg
+      text: cba
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
