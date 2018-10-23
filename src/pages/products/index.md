@@ -40,7 +40,7 @@ intro:
     - image: /img/s967528964428673050_p172_i2_w2560.jpeg
       text: Whait what?
     - image: /img/s967528964428673050_p170_i3_w2560.jpeg
-      text: cba
+      text: cbadfg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
